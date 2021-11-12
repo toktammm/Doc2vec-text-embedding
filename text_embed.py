@@ -153,7 +153,7 @@ def tsne_plot(model, df, tags_cat, N_size, color, n_dim):
 
     
 def main():
-    # Download data
+    # Download data: in our dataset, each data sample is a card that has description and title, and the content of card can be accessed using its id
     df_all_cards = pd.read_csv("data_cards.csv")
     df_all_cards.kpi_id = df_all_cards.kpi_id.apply(lambda x: str(x)) # change type of kpi ids to string
     cardIds, card_objects = data_request(df_all_cards)
