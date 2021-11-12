@@ -4,6 +4,4 @@
 
 #### You should tune the parameters for your own application.
 
-![](blob/main/plot/tsne_plot.png)
-
-<img src="plot/tsne_plot.png" width="100">
+<img src="plot/tsne_plot.png" width="500">
