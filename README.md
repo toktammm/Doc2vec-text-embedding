@@ -6,4 +6,4 @@
 
 ![](blob/main/plot/tsne_plot.png)
 
-<img src="blob/main/plot/tsne_plot.png" width="100">
+<img src="plot/tsne_plot.png" width="100">
