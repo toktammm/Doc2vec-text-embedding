@@ -5,3 +5,5 @@
 #### You should tune the parameters for your own application.
 
 ![](blob/main/plot/tsne_plot.png)
+
+<img src="blob/main/plot/tsne_plot.png" width="100">
