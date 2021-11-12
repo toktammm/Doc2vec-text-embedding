@@ -4,4 +4,4 @@
 
 #### You should tune the parameters for your own application.
 
-![T-SNE plot](plot/tsne_plot.png | width=100)
+![T-SNE plot](blob/main/plot/tsne_plot.png | width=100)
