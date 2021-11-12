@@ -4,4 +4,4 @@
 
 #### You should tune the parameters for your own application.
 
-![gitbub-small](blob/main/plot/tsne_plot.png)
+![](blob/main/plot/tsne_plot.png)
